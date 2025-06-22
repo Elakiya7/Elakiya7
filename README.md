@@ -1,4 +1,4 @@
-Hello !!!  This is Elakiya C
+**Hello !!!  This is Elakiya C**
 
 - 🔭 I’m currently working on building real-time applications using Python and machine learning, especially focused on deepfake detection and recommendation systems.
 - 🌱 I’m currently learning advanced ML concepts, Data analysis, and improving my English communication skills.
